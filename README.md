@@ -5,7 +5,7 @@ A controlled comparison of four 2D segmentation architectures for multi-region b
 (Whole Tumor **WT**, Tumor Core **TC**, Enhancing Tumor **ET**), all trained with the **Adadelta** optimizer
 and evaluated over three random seeds.
 
-> **Status:** research code / work in progress. Items marked `TODO` must be filled in before publishing.
+> **Status:** research code / work in progress. Items marked `TODO` must be filled in before publishing
 
 ---
 
